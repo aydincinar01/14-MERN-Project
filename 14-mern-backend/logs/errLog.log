@@ -1,0 +1,15 @@
+20221018	17:56:53	9749f0e3-337c-4602-9a41-5c29f9daab0c	Error: Not allowed by CORS	OPTIONS	/auth	http://localhost:3000
+20221018	17:56:55	6f73c8e0-56a0-4258-ba4f-57d04af66d04	Error: Not allowed by CORS	OPTIONS	/auth	http://localhost:3000
+20221018	18:00:35	2c306148-9775-4691-b104-38b3d9ce2432	SyntaxError: Unexpected string in JSON at position 55	POST	/users	undefined
+20221020	11:22:22	e7b9beba-723f-4bef-8c92-b35b1307d981	Error: Not allowed by CORS	OPTIONS	/auth	http://localhost:3000
+20221020	11:22:26	7c9ccfaa-c276-4e20-87dc-904d75603dfb	Error: Not allowed by CORS	OPTIONS	/auth	http://localhost:3000
+20221020	11:22:42	f8d451c0-2e6a-47b4-8566-44fdef41e115	Error: Not allowed by CORS	OPTIONS	/auth	http://localhost:3000
+20221020	11:22:43	4d9f4351-be6c-49e8-bf6e-5da4525f95e3	Error: Not allowed by CORS	OPTIONS	/auth	http://localhost:3000
+20221020	11:22:43	b743aefe-d90a-4d62-9b5b-6e1e50b06f09	Error: Not allowed by CORS	OPTIONS	/auth	http://localhost:3000
+20221020	11:22:56	8d50868f-b5a3-4bec-847f-26701e38ecc1	Error: Not allowed by CORS	OPTIONS	/auth	http://localhost:3000
+20221022	10:27:32	091f83e1-e5b1-4e03-81b7-73331b862c4e	Error: Not allowed by CORS	OPTIONS	/auth	http://localhost:3001
+20221022	10:27:34	c67b6112-157b-4175-829f-55659ac40a60	Error: Not allowed by CORS	OPTIONS	/auth	http://localhost:3001
+20221022	10:27:35	bb59696d-75c8-4716-b896-ce324c99a804	Error: Not allowed by CORS	OPTIONS	/auth	http://localhost:3001
+20221022	10:27:36	1042a546-9cb6-4809-bb5f-02f60f0b51f1	Error: Not allowed by CORS	OPTIONS	/auth	http://localhost:3001
+20221022	10:27:41	7aab4e28-8f34-464c-8123-e3a23aaf1971	Error: Not allowed by CORS	OPTIONS	/auth	http://localhost:3001
+20221022	10:27:47	1a98e96a-6176-4ffe-82e7-f67b2a522e95	Error: Not allowed by CORS	OPTIONS	/auth	http://localhost:3001
